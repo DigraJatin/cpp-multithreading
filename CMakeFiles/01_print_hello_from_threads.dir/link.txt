@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/01_print_hello_from_threads.dir/easy/01_print_hello_from_threads.cpp.o -o 01_print_hello_from_threads 
